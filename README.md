@@ -16,14 +16,14 @@ Estudiante de **Licenciatura en Sistemas (UNLP)** enfocada en **Data Analytics y
 
 **Análisis de datos:** Pandas · NumPy · Excel
 
-**Visualización y BI:** Power BI · Looker Studio
+**Visualización y BI:** Power BI · Tableau
 
 **Control de versiones:** Git · GitHub
 
 
 ## 🤝 Habilidades blandas
 
-Experiencia previa dando clases y coordinando grupos: comunicación clara, organización y resolución de problemas en equipo.
+Experiencia previa como instructora de natación, coordinando grupos y explicando de forma clara a personas de distintas edades y niveles. Eso me dio comunicación clara, organización y resolución de problemas en equipo, habilidades que hoy quiero llevar a un entorno IT.
 
 ## 🔎 Qué estoy buscando
 

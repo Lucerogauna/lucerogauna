@@ -3,8 +3,6 @@
 
 Estudiante de **Licenciatura en Sistemas (UNLP)** enfocada en **Data Analytics y Bases de Datos**.
 
-Me entusiasma entender el ciclo completo del dato: cómo se modela y consulta en una base, y cómo se analiza y visualiza para responder preguntas de negocio.
-
 ## 🎓 Formación
 
 - Licenciatura en Sistemas, UNLP (cursando Bases de Datos)

@@ -5,7 +5,7 @@ Estudiante de **Licenciatura en Sistemas (UNLP)** enfocada en **Data Analytics y
 
 ## 🎓 Formación
 
-- Licenciatura en Sistemas, UNLP (cursando Bases de Datos)
+- Licenciatura en Sistemas, UNLP (en curso)
 - Diplomatura en Data Analytics y Storytelling, UTN
 
 ## 🛠️ Herramientas y tecnologías
